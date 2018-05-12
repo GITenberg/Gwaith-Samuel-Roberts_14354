@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1144
     wikipedia: http://en.wikipedia.org/wiki/Owen_Morgan_Edwards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14354#Gwaith-Samuel-Roberts
 gutenberg_issued: '2004-12-14'
 gutenberg_type: Text
 identifiers:
